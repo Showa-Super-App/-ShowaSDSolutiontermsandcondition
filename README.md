@@ -1,4 +1,4 @@
-# Terms & Conditions
+# Showa SD Solution Terms & Conditions
 
 These terms and conditions apply to the Showa SD Solution (hereby referred to as "Application") for mobile devices that was created by Showa Co., Ltd. (hereby referred to as "Service Provider") as a Freemium service.
 
